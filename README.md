@@ -1,2 +1,1 @@
-# hexlet-my-first-workflow
 [![CI](https://github.com/vvladalvv/hexlet-my-first-workflow/actions/workflows/hello-world.yml/badge.svg)](https://github.com/vvladalvv/hexlet-my-first-workflow/actions/workflows/hello-world.yml)
